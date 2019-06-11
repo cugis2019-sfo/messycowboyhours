@@ -44,3 +44,25 @@ def trianglearea(b,h):
     print("the area of this triangle is", trianglearea)
     
 trianglearea(2,10)
+
+def greeting(x):
+    print("hey", x, "it's me your mom")
+    
+greeting("raven")
+greeting("anta")    
+greeting("justine") #i am saying hello
+    
+def greeting(b):
+    print("hey", b, "my main goal is to blow up and then act like i dont know no bodyayayayayy hahahahhahah")
+    
+greeting("anatatTAattatta")
+
+greeting("brian")
+def greeting(l):
+    print(l, "i can't believe you've done this")   
+    
+greeting("anta")
+    
+    
+    
+    
