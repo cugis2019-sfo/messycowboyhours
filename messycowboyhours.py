@@ -46,13 +46,13 @@ def trianglearea(b,h):
 trianglearea(2,10)
 
 def greeting(x):
-    print("hey", x, "it's me your mom")
+    print("hey", x, "it's me your mom") #made this
     
 greeting("raven")
 greeting("anta")    
 greeting("justine") #i am saying hello
     
-def greeting(b):
+def greeting(b): #maaaaade this
     print("hey", b, "my main goal is to blow up and then act like i dont know no bodyayayayayy hahahahhahah")
     
 greeting("anatatTAattatta")
@@ -61,8 +61,93 @@ greeting("brian")
 def greeting(l):
     print(l, "i can't believe you've done this")   
     
-greeting("anta")
+greeting("anta") #talked to anta
     
+import math
+dir(math)    #got the math
+
+nice :') #69
+pi #showing that pi doesnt work w/out "math."
+math.pi #finding pi
+math.radians
+
+math.e
+math.sqrt(49)
+math.factorial(1739)
+math.factorial(69) #yummy #i cant stop
+math.pow(2,3)
+math.remainder
+math.remainder(3)
+math.remainder(4,5)
+math.remainder(8,6)
+math.acos
+math.acos(6)
+math.atan(67)
+
+def cbrt(x):
+def cbrt(x):
+    output = math.pow(x,1.3)
+    print("the cube root of", x, "is", output)
     
+cbrt(39)
+cbrt(13892598752804710813084393018912194829148931)
+cbrt(0.000000000000000012003023012024
+math.sqrt(64)01403403405020364080275338190)
+math.e
+    cbrt = x**(1/3)
+    print("this cube root of this number is", cbrt)
+
+cbrt(8)
+
+8**1/3
+8**(1/3)
+def ykwtfgo(x):
+    x = ("yardy knowwww")
+    print("yeet", x)
+
+ykwtfgo("x")
+import math
+math.isclose
+22/7
+math.pi
+def enter(x):
+    enter = x**(1/3)
+    print("the cube root of", x, "is", x)
+
+enter(99)
+def askuser(): #this went WRONG
+print("you are wrong")
+
+def askuser():
+    print("what is the value of t?")
     
+askvalue()
+
+t=9
+
+print(t)
+
+def cbrt(t):
+    value = math.pow(t,1/3)
+    print("the cubic root of", t, "is", value)
+
+cbrt(99)
+
+def user():
+    print("Please select a number for t")
+
+user()
+cbrt(8)
+
+def cadburybox(x):
+    x = 5
+    print("cadbury box has", x, "chocolates")
     
+cadburybox(5) #wrong ahahahhahahahaha
+
+
+
+
+
+
+
